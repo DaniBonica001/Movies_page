@@ -13,6 +13,9 @@
     border-radius: 10px;
 
 }
+.title{
+    color: white;
+}
 @media(max-width: 560px){
     .movieCard{
         width: 90%;
