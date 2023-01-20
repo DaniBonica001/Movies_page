@@ -1,5 +1,4 @@
-const API = "https://www.themoviedb.org/";
-
+const API = "https://api.themoviedb.org/3";
 export function get(path) {
   return fetch(API + path, {
     headers: {
